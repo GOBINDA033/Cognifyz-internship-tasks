@@ -1,0 +1,21 @@
+Task 3: Task Manager (CRUD Application)
+
+Description:
+This is a console-based Task Manager application developed in Java.
+It allows users to perform CRUD operations:
+- Add Task
+- View Tasks
+- Update Task
+- Delete Task
+
+Concepts Used:
+- ArrayList
+- Classes & Objects
+- Switch Case
+- Loops
+- Scanner Class
+
+How to Run:
+1. Compile: javac Task3_TaskManager.java
+2. Run: java Task3_TaskManager
+

@@ -1,0 +1,17 @@
+5.task
+
+Task 5: Task Manager with File Handling
+
+Description:
+This is an advanced version of the Task Manager application.
+Tasks are stored in a file so data is not lost after program exit.
+
+Concepts Used:
+- File Handling
+- FileWriter
+- Scanner with Files
+- Exception Handling
+
+How to Run:
+1. Compile: javac Task5_FileTaskManager.java
+2. Run: java Task5_FileTaskManager

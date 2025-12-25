@@ -1,0 +1,14 @@
+Task 2: Number Pattern Program (Java)
+
+Description:
+This program prints different number and star patterns using
+nested loops in Java.
+
+Concepts Used:
+- For Loops
+- Nested Loops
+- Pattern Logic
+
+How to Run:
+1. Compile: javac Task2_NumberPattern.java
+2. Run: java Task2_NumberPattern
